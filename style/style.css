@@ -1,0 +1,169 @@
+
+body {
+    font-family: Optima, Calibri, sans-serif;
+    margin: 0;;
+    padding: 0;
+
+}
+.handle{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    
+
+}
+
+.header{
+    position:relative;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url("../images/bgc.jpg");
+    background-size: cover;
+    background-color: #fff;
+    background-repeat: no-repeat;
+
+    padding: 50px;
+}
+.product{
+    padding: 50px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.product_image{
+    float: left;
+    margin-right: 5%;
+
+
+
+}
+
+
+
+.intro h1{
+    font-weight: bold;
+}
+
+.intro {
+    color: white;
+    
+    
+}
+.cta{
+    color:white;
+    background-color: #9932cc;
+    border: 1px solid #9932cc;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+
+}
+
+.clear{
+    clear: both;
+}
+.content{
+    margin-left: 5%;
+    margin-bottom: 0;
+
+}
+
+.Tesmonial{
+    background-color: plum;
+    height: 200px;
+}
+
+.testys {
+    position: relative;
+    width: 83%;
+    float: left;
+    
+ 
+}
+.usrs{
+    position: relative;
+    right: 5%;
+    float: left;
+}
+
+
+h3{
+    text-align: center;
+    margin-top: 0;
+}
+table{
+    padding: 50px;
+    margin: 20px auto 20px auto;
+
+
+}
+table th{
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+    background-color: #fff;
+    padding: 15px;
+}
+table tbody tr td{
+    background-color: #fff;
+    text-align: center;
+    padding: 10px;
+    color: black;
+
+}
+
+footer{
+    background-color: #D3D3D3;
+    text-align: center;
+    font-style: italic;
+
+}
+footer ul{
+    list-style-type: none;
+    text-align: center;
+    padding: 5px;
+}
+footer ul li{
+    display: inline-block;
+    padding: 5px;
+    color: plum;
+}
+footer ul li a{
+    text-decoration: none;
+    color: darkorchid;
+}
+.choosen{
+    padding: 20px;
+    background-color: darkorchid;
+    color: white;
+}
+.order{
+    padding: 35px; 
+    background-color:white;
+}
+.normal{
+    padding: 20px; 
+    background-color: lightgray;
+}
+span{
+    font-size: larger;
+}
+.icons{
+    text-align: center;
+}
+.icons img{
+    margin-right: 20px;
+
+
+}
+.choosen,.normal{
+    font-weight: bold;
+    font-size: larger;
+}
+td input{
+    width: 150px;
+    padding: 15px;
+    height: 50px;
+ 
+}
