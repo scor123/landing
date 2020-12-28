@@ -1,3 +1,3 @@
-# landing
+#Landing page template created by HTML & CSS 
 
-It's just a normal landing page
+The landing page for an imaginary book with Call to action procedure
